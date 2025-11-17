@@ -347,20 +347,13 @@ Par défaut, Stremio installe quelques addons que vous n'utiliserez probablement
 
 Les catalogues vous permettent d'avoir une belle page d'accueil avec du contenu à découvrir.
 
-#### TMDB Addon (recommandé)
+#### TMDB Catalogs (recommandé)
 
-TMDB est meilleur que le catalogue par défaut de Stremio.
-
-1. Allez sur [94c8cb09f068-tmdb-addon.baby-beamup.club](https://94c8cb09f068-tmdb-addon.baby-beamup.club/)
+1. Allez sur [https://tmdb.elfhosted.com/configure/](https://tmdb.elfhosted.com/configure/)
 2. Sélectionnez votre langue (Français ou English)
-3. Cliquez sur **"Install"** dans le menu de gauche
-4. Confirmez l'installation dans Stremio
-
-#### IMDB Catalogs (optionnel)
-
-1. Allez sur [1fe84bc728af-imdb-catalogs.baby-beamup.club](https://1fe84bc728af-imdb-catalogs.baby-beamup.club/)
-2. Cliquez sur **"Install"**
-3. Confirmez dans Stremio
+3. Dans Integration/Streaming Catalog, sélectionnez "France" et les services de streaming souhaités
+4. Cliquez sur **"Install"** dans le menu de gauche, ou copiez le lien avec "Copy URL" et collez le dans Stremio/Addons/Add Addon
+5. Confirmez l'installation dans Stremio
 
 ---
 
