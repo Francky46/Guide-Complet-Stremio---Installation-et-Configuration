@@ -1,7 +1,6 @@
 > ⚠ Si vous avez une erreur **"File was removed from debrid service due to copyright infringement"** lorsque vous lisez les streams. Merci de lire ce [tuto](https://github.com/Francky46/Guide-Complet-Stremio---Installation-et-Configuration/blob/main/Tuto%20Aiostram.md).
 
-> **Guide complet pour installer et configurer Stremio sur tous vos appareils**
-> 
+**Guide complet pour installer et configurer Stremio sur tous vos appareils**
 > Dernière mise à jour : Novembre 2024
 
 ---
